@@ -2,8 +2,8 @@
 
 This is a sci-fi themed Tower Defense game (featuring an integrated circuit/motherboard aesthetic), developed in **Construct 3** as a project for the Visual Programming course. The project demonstrates a robust architecture within event sheets and the implementation of complex logical systems for both enemies and defensive structures.
 
-## 📸 Gameplay Gallery
-*(We will add screenshots here in the next step)*
+##  Gameplay Gallery
+![Gameplay 1](Picture1.png)
 
 ## Key Mechanics Implemented
 
